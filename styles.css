@@ -39,3 +39,24 @@ body{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+.bottommenu {
+  position: fixed;
+  bottom: 50px;
+  width: 98%;
+}
+
+.bottommenu a {
+  color: #818181;
+}
+
+button{
+  margin: 15px;
+}
+
+#footer{
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
